@@ -7,3 +7,8 @@ groq
 langchain-groq
 ollama
 python-dotenv
+wordcloud
+fitz
+plotly
+matplotlib
+plotly-express
