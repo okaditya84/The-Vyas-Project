@@ -12,3 +12,10 @@ fitz
 plotly
 matplotlib
 plotly-express
+PyMuPDF
+plotly
+pandas
+gtts
+pydub
+SpeechRecognition
+googletrans
