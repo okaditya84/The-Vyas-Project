@@ -19,3 +19,4 @@ gtts
 pydub
 SpeechRecognition
 googletrans
+deep-translator
